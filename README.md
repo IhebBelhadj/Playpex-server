@@ -1,7 +1,7 @@
 # Playpex-server
 
 This is an alpha torrent streaming api build on top of peerflix 
-Don't have time to right docs but the code is easy to read 
+Don't have time to write documentations but the code is easy to read 
 
 there is a file called api.js which contains all the api routes you need 
 to start the server:
